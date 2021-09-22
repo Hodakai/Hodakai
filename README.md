@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hodakai
-- 👀 I’m interested in making cool videogames in Unreal Engine
+- 👀 I’m interested in making cool videogames in Unreal Engine and Unity
 - 🌱 I’m currently learning C++, C#, and other languages soon...
-- 💞️ I’m looking to collaborate on my first multiplayer videogame on UE4 (and UE5 when the stable release comes out !)
+- 💞️ I’m looking to collaborate on my first multiplayer videogame on Unity
 - 📫 How to reach me : Discord -> Hodaka #2222 / Mail -> thomas.gravy@epsi.fr
 
 <!---
