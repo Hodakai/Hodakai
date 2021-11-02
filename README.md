@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hodakai
-- 👀 I’m interested in making cool videogames in Unreal Engine and Unity
+- 👀 I’m interested in web and mobile programmation
 - 🌱 I’m currently learning React, Symfony, and other frameworks/languages soon...
 - 💞️ I’m looking for an alternation
 - 📫 How to reach me : Discord -> Hodaka #7066 / Mail -> thomas.gravy@epsi.fr
