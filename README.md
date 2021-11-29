@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile programming
 - 🌱 I’m currently learning React, Symfony, and other frameworks/languages soon...
 - 💞️ I’m looking for an alternation
-- 📫 How to reach me : Discord -> Hodaka #7066 / Mail -> thomas.gravy@epsi.fr
+- 📫 How to reach me : Discord -> HowBaka #0002 / Mail -> thomas.gravy@epsi.fr
 
 <!---
 Hodakai/Hodakai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
