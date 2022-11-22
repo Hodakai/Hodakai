@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hodakai
 - 👀 I’m interested in web and mobile programming
 - 🌱 I’m currently learning React, Symfony, and other frameworks/languages soon...
-- 💞️ I’m looking for an alternation
 - 📫 How to reach me : Discord -> HowBaka #0002 / Mail -> thomas.gravy@epsi.fr
 
 <!---
