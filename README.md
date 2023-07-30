@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Hodakai
-- 👀 I’m interested in web and mobile programming
-- 🌱 I’m currently learning React, Symfony, and other frameworks/languages soon...
-- 📫 How to reach me : Discord -> HowBaka #0002 / Mail -> thomas.gravy@epsi.fr
+# 👋
+## I'm HowBaka
 
-<!---
-Hodakai/Hodakai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 3rd year IT student
+- I like to code
+- I'm designing when I'm not coding
+- When I'm not designing, I'm gaming
+- When I'm not gaming, I sleep (sometimes)
+
+### I know some stuff
+- PHP
+- C, C#, C++ (these are a bit boring tbh)
+- CSS, Less, Sass, Tailwind (soon)
+- Python
+- Flutter (❤️)
+- React, NextJS
+- Magento, Sanity
+- Swift (more soon)
+- Figma enjoyer
+
+### If you want to contact me
+- Discord -> howbaka
